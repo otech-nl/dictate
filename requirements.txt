@@ -1,0 +1,5 @@
+PocketSphinx
+pyaudio
+pypiwin32
+pyttsx
+SpeechRecognition
